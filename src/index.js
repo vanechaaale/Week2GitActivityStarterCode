@@ -6,3 +6,5 @@ var result_add = calc.add(2, 3);
 console.log("result_add = ".concat(result_add));
 var result_multiply = calc.multiply(2, 3);
 console.log("result_multiply = ".concat(result_multiply));
+var subtract = calc.subtract(2, 3);
+console.log("subtract = ".concat(subtract));
