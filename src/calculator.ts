@@ -14,9 +14,4 @@ export class Calculator {
   public divide(x: number, y: number) : number {
     return x / y;
     }
-=======
-  public subtract(x: number, y: number) : number {
-  return x - y;
-  }
->>>>>>> 67e7b99 (add subtract operation)
 };

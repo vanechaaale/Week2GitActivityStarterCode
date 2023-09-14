@@ -7,11 +7,8 @@ var Calculator = /** @class */ (function () {
     Calculator.prototype.add = function (x, y) {
         return x + y;
     };
-<<<<<<< HEAD
     Calculator.prototype.multiply = function (x, y) {
         return x * y;
-=======
->>>>>>> 67e7b99 (add subtract operation)
     Calculator.prototype.subtract = function (x, y) {
         return x - y;
     };
